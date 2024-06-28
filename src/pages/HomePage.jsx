@@ -4,7 +4,7 @@ import AboutMe from "../components/Aboutme";
 import Projects from "../components/Projects";
 import Contacts from "../components/Contacts";
 
-const DesktopVersion = () => {
+const HomePage = () => {
   return (
     <div className="w-full relative bg-ghostwhite overflow-hidden flex flex-col items-start justify-start gap-[13px] leading-[normal] tracking-[normal]">
       <NavigationContainer />
@@ -88,4 +88,4 @@ const DesktopVersion = () => {
   );
 };
 
-export default DesktopVersion;
+export default HomePage;
