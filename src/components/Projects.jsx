@@ -1,5 +1,4 @@
 import ProjectContent from "./ProjectContent";
-import ProjectContent1 from "./ProjectContent1";
 import PropTypes from "prop-types";
 
 const Projects = ({ className = "" }) => {
